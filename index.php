@@ -38,7 +38,7 @@
   height: auto;">
         <!--NAVBAR-->
 
-        <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+        <nav class="navbar navbar-expand-sm navbar-light" id="navbar">
             <div class="container-fluid" >
               <a class="navbar-brand" href="#"><img src="logo.png" alt="" style="position: relative; height: 40px; width: 40px;">E Star</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
