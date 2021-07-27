@@ -39,9 +39,17 @@
                 align-items: center;
                 font-weight: bold;
                 }
+                .btn{
+                    position:  absolute;
+                    top:auto;
+                    right: 1em;
+                    background-color: aqua;
+                    border-style:solid;
+                    border-radius: 10%;
+                }
                 .p{
                     position:  relative;
-                    top: 2em;
+                    top: 3em;
                 }
                 a{
                     color: black;
@@ -74,6 +82,9 @@
     <body>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <nav><div class="nav">
+            <button class="btn"><img src="https://img.icons8.com/material-outlined/24/000000/menu--v1.png"/>
+
+            </button>
             <a href="#">Home</a>
         </div></nav>
         <div class="p"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero aspernatur, voluptate, eligendi eveniet amet quo eos nesciunt, nihil temporibus nam ipsam reiciendis iste accusantium? Temporibus provident vero cumque saepe non?</p>
