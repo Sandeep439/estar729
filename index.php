@@ -32,7 +32,7 @@
                 position: absolute;
                 top:0%;
                 left:0%;
-                width:350px;
+                width:357px;
                 height: 60px;
                 background-color: aqua;
                 display: flex;
