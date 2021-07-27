@@ -31,6 +31,7 @@
                 .nav{
                 position: absolute;
                 top:0%;
+                left:0%;
                 width:400px;
                 height: 50px;
                 background-color: aqua;
