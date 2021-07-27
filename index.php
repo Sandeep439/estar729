@@ -32,8 +32,8 @@
                 position: absolute;
                 top:0%;
                 left:0%;
-                width:400px;
-                height: 50px;
+                width:350px;
+                height: 60px;
                 background-color: aqua;
                 display: flex;
                 align-items: center;
